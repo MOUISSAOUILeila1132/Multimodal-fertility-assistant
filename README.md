@@ -4,7 +4,7 @@
 
 It leverages a multimodal architecture combining Computer Vision, RAG (Retrieval-Augmented Generation), and Voice Interaction.
 
-## 🚀 Key Features
+##  Key Features
 - **Multimodal Analysis:** Understands medical images (charts, tables) using `Qwen2-VL-7B`.
 - **Bilingual Support:** Switch natively between Arabic (with dialect support) and French.
 - **RAG Engine:** Contextual answers based on verified medical PDFs using `LlamaIndex`.
@@ -13,7 +13,7 @@ It leverages a multimodal architecture combining Computer Vision, RAG (Retrieval
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 | Component | Technology | Details |
 |-----------|------------|---------|
@@ -26,7 +26,7 @@ It leverages a multimodal architecture combining Computer Vision, RAG (Retrieval
 
 ---
 
-## ⚡ Exact Kaggle Run Instructions
+##  Exact Kaggle Run Instructions
 
 Follow these steps to run the prototype on a **Kaggle Notebook**.
 
