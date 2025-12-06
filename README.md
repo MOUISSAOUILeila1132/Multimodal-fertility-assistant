@@ -47,3 +47,11 @@ Copy and run this code in the first cell to install all required libraries:
 !pip install pydub
 # FFmpeg is usually pre-installed on Kaggle/Colab, if not:
 # !apt-get install -y ffmpeg
+
+
+
+pip install -r requirements.txt
+
+python build_index.py
+
+python app.py
