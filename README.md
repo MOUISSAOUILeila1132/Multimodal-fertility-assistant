@@ -28,7 +28,7 @@ It leverages a multimodal architecture combining Computer Vision, RAG (Retrieval
 
 ---
 
-##  Exact Kaggle Run Instructions
+##   Kaggle Run Instructions
 
 Follow these steps to run the prototype on a **Kaggle Notebook**.
 
