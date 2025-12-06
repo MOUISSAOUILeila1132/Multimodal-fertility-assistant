@@ -3,7 +3,7 @@
 **Tanit** is an AI-powered medical assistant designed to help interpret fertility-related documents (Spermograms, Hormonal Analysis, Ultrasounds) and answer questions in both **Arabic** and **French**.
 
 It leverages a multimodal architecture combining Computer Vision, RAG (Retrieval-Augmented Generation), and Voice Interaction.
-
+**link_Démo** : https://drive.google.com/file/d/1wwRd9WVCecPrObsakZR8AOyiV2owznLj/view?usp=sharing
 ##  Key Features
 - **Multimodal Analysis:** Understands medical images (charts, tables) using `Qwen2-VL-7B`.
 - **Bilingual Support:** Switch natively between Arabic (with dialect support) and French.
