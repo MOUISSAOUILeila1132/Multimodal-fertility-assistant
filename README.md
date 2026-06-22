@@ -1,4 +1,4 @@
-# 🌸 Tanit - Multimodal Fertility Assistant
+# 🌸 Multimodal Fertility Assistant
 
 **Tanit** is an AI-powered medical assistant designed to help interpret fertility-related documents (Spermograms, Hormonal Analysis, Ultrasounds) and answer questions in both **Arabic** and **French**.
 
